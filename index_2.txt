@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>  
+<body>
+  <header> button Menu\ button Logo\ <input type="Search"/> ...  
+</header>
+  <main>
+    <video>
+ <source src="...">
+</video>
+  </main>
+ <h1>Video name</h1>
+  <div>
+    <h2>reviews\ date</h2>
+    </div>
+      <button>like \ dislike \ ... \</button> 
+  <nav>
+    <h3>Popular music ...</h3>
+    <h4>Music</h4>
+    <button>иконка перемещать\ ... </button> 
+  <ol>
+    <li><video><source src="URL"></video></li>
+    <li><video><source src="URL"></video></li>
+    <li><video><source src="URL"></video></li>
+    .....
+  </ol>
+</nav>
+</body>   
+</html>
